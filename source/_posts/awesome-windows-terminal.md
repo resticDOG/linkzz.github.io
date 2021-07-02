@@ -3,7 +3,8 @@ title: 让Powershell更好用, Windows下目前最好用的终端工具-Windows 
 date: 2021-06-29
 tags:
 - window terminal
-- themes
+- 主题
+- 终端
 categories: 
 - tools
 ---
