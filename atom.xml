@@ -6,7 +6,7 @@
   <link href="/linkzz/atom.xml" rel="self"/>
   
   <link href="https://resticdog.github.io/linkzz/"/>
-  <updated>2020-06-03T06:32:02.408Z</updated>
+  <updated>2021-07-02T01:53:03.918Z</updated>
   <id>https://resticdog.github.io/linkzz/</id>
   
   <author>
@@ -17,11 +17,42 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>让Powershell更好用, Windows下目前最好用的终端工具-Windows Terminal折腾记</title>
+    <link href="https://resticdog.github.io/linkzz/2021/06/28/awesome-windows-terminal/"/>
+    <id>https://resticdog.github.io/linkzz/2021/06/28/awesome-windows-terminal/</id>
+    <published>2021-06-28T16:00:00.000Z</published>
+    <updated>2021-07-02T01:53:03.918Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;装X&quot;&gt;&lt;a href=&quot;#装X&quot; class=&quot;headerlink&quot; title=&quot;装X&quot;&gt;&lt;/a&gt;装X&lt;/h2&gt;&lt;p&gt;熟话说：“&lt;del&gt;漂亮&lt;/del&gt;（ZB）是第一生产力”，既然都是黑框框，你希望是这样的黑框框：&lt;br&gt;&lt;img
+        
+      
+    
+    </summary>
+    
+    
+      <category term="tools" scheme="https://resticdog.github.io/linkzz/categories/tools/"/>
+    
+    
+      <category term="window terminal" scheme="https://resticdog.github.io/linkzz/tags/window-terminal/"/>
+    
+      <category term="主题" scheme="https://resticdog.github.io/linkzz/tags/%E4%B8%BB%E9%A2%98/"/>
+    
+      <category term="终端" scheme="https://resticdog.github.io/linkzz/tags/%E7%BB%88%E7%AB%AF/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Spring事务的隔离级别和传播行为以及常见的事务注解失效的原因</title>
     <link href="https://resticdog.github.io/linkzz/2020/05/28/interview-20200528/"/>
     <id>https://resticdog.github.io/linkzz/2020/05/28/interview-20200528/</id>
     <published>2020-05-28T16:21:52.000Z</published>
-    <updated>2020-06-03T06:32:02.408Z</updated>
+    <updated>2021-07-02T01:53:03.918Z</updated>
     
     <summary type="html">
     
@@ -50,7 +81,7 @@
     <link href="https://resticdog.github.io/linkzz/2019/05/03/ubuntu-idea-font/"/>
     <id>https://resticdog.github.io/linkzz/2019/05/03/ubuntu-idea-font/</id>
     <published>2019-05-03T14:36:15.000Z</published>
-    <updated>2020-06-03T06:32:02.408Z</updated>
+    <updated>2021-07-02T01:53:03.918Z</updated>
     
     <summary type="html">
     
@@ -75,7 +106,7 @@
     <link href="https://resticdog.github.io/linkzz/2019/01/08/hogan-render-img-err/"/>
     <id>https://resticdog.github.io/linkzz/2019/01/08/hogan-render-img-err/</id>
     <published>2019-01-08T10:22:04.000Z</published>
-    <updated>2020-06-03T06:32:02.408Z</updated>
+    <updated>2021-07-02T01:53:03.918Z</updated>
     
     <summary type="html">
     
@@ -96,7 +127,7 @@
     <link href="https://resticdog.github.io/linkzz/2018/12/28/awesome-false/"/>
     <id>https://resticdog.github.io/linkzz/2018/12/28/awesome-false/</id>
     <published>2018-12-28T08:55:56.000Z</published>
-    <updated>2020-06-03T06:32:02.408Z</updated>
+    <updated>2021-07-02T01:53:03.918Z</updated>
     
     <summary type="html">
     
