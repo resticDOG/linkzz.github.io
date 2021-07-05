@@ -342,7 +342,6 @@ Set-PoshPrompt -Theme ys
 
 # alais scripts
 . C:\Users\linkzz\ps-scripts\alais.ps1
-s
 ```
 
 至此Windows Terminal美化就说完了，到这里你可以去给你的小伙伴们装X了，但这只算装X刚入门阶段， 要想更好的装X，想要更多好用的终端功能，下一章我们继续。
